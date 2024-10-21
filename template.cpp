@@ -12,6 +12,8 @@
 // #include <queue>
 using namespace std;
 
+#define sp " "
+#define tb "\t"
 #define el "\n"
 #define ll long long int
 const int MAX_INT = std::numeric_limits<int>::max();
